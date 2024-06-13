@@ -1,0 +1,21 @@
+**Objective**: Develop a notifications system for order updates and promotions using HTML, CSS (Bootstrap), Python, and Firebase.
+
+**Tasks**:
+- Design notification preferences UI using HTML and Bootstrap.
+- Implement backend to handle sending notifications.
+- Integrate with Firebase for push notifications.
+- Add functionality for email notifications and alerts.
+- Ensure user privacy settings are respected.
+
+**Technical Specifications**:
+- **Frontend**: HTML, Bootstrap for notification settings.
+- **Backend**: Python (Flask) with Firebase for notifications.
+- **Database**: MySQL for storing user preferences.
+- **Integration**: Firebase Cloud Messaging.
+- **Deployment**: Docker for backend services.
+
+**Attachments**:
+- ![Mockup of Notification Settings](https://via.placeholder.com/150)
+- ![Notification System Diagram](https://via.placeholder.com/150)
+- [Firebase Integration Documentation](https://example.com/firebase_integration_docs.pdf)
+

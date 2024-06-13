@@ -1,0 +1,21 @@
+**Objective**: Implement a secure registration and login system using HTML, CSS (Bootstrap), and Python for backend services.
+
+**Tasks**:
+- Design user registration and login forms using HTML and Bootstrap.
+- Develop backend in Python with Flask for handling authentication.
+- Securely store user passwords in MySQL using hashing (bcrypt).
+- Implement JWT for session management.
+- Create user profile page for managing account details.
+
+**Technical Specifications**:
+- **Frontend**: HTML, Bootstrap for responsive forms.
+- **Backend**: Python (Flask) for API.
+- **Database**: MySQL for storing user data.
+- **Authentication**: JWT and bcrypt for password hashing.
+- **Deployment**: Docker for containerization.
+
+**Attachments**:
+- ![Mockup of Registration/Login Page](https://via.placeholder.com/150)
+- ![Flow Diagram of Authentication Process](https://via.placeholder.com/150)
+- [Technical Specification Document](https://example.com/auth_technical_spec.docx)
+
