@@ -11,9 +11,3 @@
 - **Backend**: Python (Flask) with WebSocket for live tracking.
 - **Database**: MySQL for storing order history.
 - **Deployment**: Docker for backend services.
-
-**Attachments**:
-- ![Mockup of Order Tracking Page](https://via.placeholder.com/150)
-- [Order Status API Documentation](https://example.com/order_status_api_docs.pdf)
-- ![Real-time Tracking Diagram](https://via.placeholder.com/150)
-

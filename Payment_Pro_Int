@@ -12,9 +12,3 @@
 - **Database**: MySQL for transaction records.
 - **Integration**: Stripe API for payment gateway.
 - **Deployment**: Docker for backend services.
-
-**Attachments**:
-- ![Mockup of Payment Page](https://via.placeholder.com/150)
-- ![Payment Integration Diagram](https://via.placeholder.com/150)
-- [Payment API Integration Documentation](https://example.com/payment_api_docs.pdf)
-

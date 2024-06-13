@@ -11,9 +11,3 @@
 - **Backend**: Python (Flask) for API and data retrieval.
 - **Database**: MySQL for storing restaurant and menu data.
 - **Integration**: Google Maps API.
-
-**Attachments**:
-- ![Mockup of Restaurant Listing](https://via.placeholder.com/150)
-- ![Mockup of Menu Display](https://via.placeholder.com/150)
-- [API Endpoint Documentation](https://example.com/restaurant_api_docs.pdf)
-

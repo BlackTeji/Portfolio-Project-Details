@@ -11,11 +11,5 @@
 - **Frontend**: HTML, Bootstrap for responsive forms.
 - **Backend**: Python (Flask) for API.
 - **Database**: MySQL for storing user data.
-- **Authentication**: JWT and bcrypt for password hashing.
+- **Authentication**: JWT and bcrypt for password. 
 - **Deployment**: Docker for containerization.
-
-**Attachments**:
-- ![Mockup of Registration/Login Page](https://via.placeholder.com/150)
-- ![Flow Diagram of Authentication Process](https://via.placeholder.com/150)
-- [Technical Specification Document](https://example.com/auth_technical_spec.docx)
-

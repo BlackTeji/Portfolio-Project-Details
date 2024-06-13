@@ -11,9 +11,3 @@
 - **Backend**: Python (Flask) for handling user data.
 - **Database**: MySQL for storing profile and address details.
 - **Deployment**: Docker for backend services.
-
-**Attachments**:
-- ![Mockup of User Profile Page](https://via.placeholder.com/150)
-- [User Profile API Documentation](https://example.com/profile_api_docs.pdf)
-- ![Address Management Diagram](https://via.placeholder.com/150)
-

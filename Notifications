@@ -13,9 +13,3 @@
 - **Database**: MySQL for storing user preferences.
 - **Integration**: Firebase Cloud Messaging.
 - **Deployment**: Docker for backend services.
-
-**Attachments**:
-- ![Mockup of Notification Settings](https://via.placeholder.com/150)
-- ![Notification System Diagram](https://via.placeholder.com/150)
-- [Firebase Integration Documentation](https://example.com/firebase_integration_docs.pdf)
-
